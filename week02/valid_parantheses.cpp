@@ -1,3 +1,5 @@
+// TC: O(N)
+// MC: O(N)
 class Solution
 {
 public:
