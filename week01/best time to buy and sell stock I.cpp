@@ -1,7 +1,6 @@
 // TC: O(N)
 // MC: O(1)
-class Solution
-{
+class Solution {
 public:
     int maxProfit(vector<int> &prices)
     {

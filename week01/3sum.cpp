@@ -1,4 +1,4 @@
-class Solution {
+class Solution{
 public:
     vector<vector<int>> threeSum(vector<int>& nums) {
         int len = nums.size();

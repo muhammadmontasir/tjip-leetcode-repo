@@ -1,4 +1,4 @@
-class Solution {
+class Solution{
 public:
     int majorityElement(vector<int>& nums) {
         int cnt = 0, candidate = 0;

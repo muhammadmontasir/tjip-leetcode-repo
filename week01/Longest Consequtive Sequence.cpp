@@ -1,4 +1,4 @@
-class Solution {
+class Solution{
 public:
     int longestConsecutive(vector<int>& nums) {
         unordered_set<int> bucket(nums.begin(), nums.end());
